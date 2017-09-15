@@ -1,9 +1,7 @@
----
-title: "Udacity Self Driving Car Nanodegree Term1 Project1 Finding Lane Lines"
-date: 2017-07-04T07:51:33+03:00
-subtitle: "To Find Lanes Lines On The Road Using Basic Computer Vision"
-tags: [udacity, python, canny, OpenCV, miniconda, jupyter, numpy,]
----
+# Udacity Self Driving Car Nanodgree
+
+## Project 1 - Finding Lane Lines
+
 The main objective of this project is to find lane lines in video using basic computer vision. The lines on the road show us where the lanes are and act as a constant reference for where to steer the vehicle. Naturally, one of the first things we would like to do in developing a self-driving car is to automatically detect lane lines using an algorithm.In this project I have created a pipeline to detect lane lines in images and videos using Python and OpenCV.
 
 Because this is my first project I will also explain how to set up your computer and the tools required. Be warned that this post might be long, its however worth it.
@@ -213,4 +211,7 @@ https://youtu.be/3WvcvB6xS9I
 ### Processed Video
 https://youtu.be/1AXc-F-idEU
 
+## Conclusion
 
+This project has actually introduced me into the deeper powers of python and computer vision. I still have an urge to 
+use my own local images in this project. Thats for next time. 
